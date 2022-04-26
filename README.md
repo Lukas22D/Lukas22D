@@ -1,16 +1,26 @@
-### Hi there 👋
+## 👋 Hello! My name is Lucas.
+### Welcome to my Github, Devs!!
 
-<!--
-**Lukas22D/Lukas22D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+  <li> 📚 Computer Science Student at the Federal University of Lavras
+  <li> 💬 Ask me about anime, games, skate, or literally anything!
+  <li> 😃 Someone calm
+  <li> ⚛️I like to study and program in new programming languages ​​that challenge me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### skills:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />
+
+### Studying in this moment:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+
+### GitHub Analytics:
+
+<div>
+<a href="https://github.com/lukas22d">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukas22d&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukas22d&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
