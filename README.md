@@ -3,7 +3,7 @@
 
 ### About me
 
-  <li> 📚 Computer Science Student at the Federal University of Lavras
+  <li> 📚 Computer Science Student at the Federal University of ABC
   <li> 💬 Ask me about anime, games, skate, or literally anything!
   <li> 😃 Someone calm
   <li> ⚛️I like to study and program in new programming languages ​​that challenge me
