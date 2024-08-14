@@ -3,23 +3,26 @@
 
 ### About me
 
-  <li> 📚 Computer Science Student at the Federal University of ABC
-  <li> 💬 Ask me about anime, games, skate, or literally anything!
-  <li> 😃 Someone calm
-  <li> ⚛️I like to study and program in new programming languages ​​that challenge me
+ <li> 📚 Estagiário de TI na CorpServices Group
+<li> 💻 Desenvolvedor Back-End com foco em Node.js e Python
+<li> 🔄 Integrador de APIs e web services, focado em automação de processos corporativos
+<li> 🛠️ Habilidades em SuiteScript (NetSuite), JavaScript e Python para soluções personalizadas
+<li> 🚀 Apaixonado por arquiteturas de automação e integração
+<li> 🤖 Interessado em orquestração de LLM’s usando frameworks como Langchain
+
 
  ### skills:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" />
 
 
 
 ### Studying in this moment:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
+
 
 
 
