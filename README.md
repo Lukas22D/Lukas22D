@@ -8,7 +8,7 @@
 <li> 🔄 Integrador de APIs e web services, focado em automação de processos corporativos
 <li> 🛠️ Habilidades em SuiteScript (NetSuite), JavaScript e Python para soluções personalizadas
 <li> 🚀 Apaixonado por arquiteturas de automação e integração
-<li> 🤖 Interessado em orquestração de LLM’s usando frameworks como Langchain
+<li> 🤖 Interessado em orquestração de LLM’s usando frameworks como Langchain e machine learning
 
 
  ### skills:
