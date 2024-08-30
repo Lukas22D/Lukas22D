@@ -6,7 +6,7 @@
  <li> 📚 Estagiário de TI na CorpServices Group
 <li> 💻 Desenvolvedor Back-End com foco em Node.js e Python
 <li> 🔄 Integrador de APIs e web services, focado em automação de processos corporativos
-<li> 🛠️ Habilidades em SuiteScript (NetSuite), JavaScript e Python para soluções personalizadas
+<li> 🛠️ Habilidades em Node.js, Java e Python para soluções personalizadas
 <li> 🚀 Apaixonado por arquiteturas de automação e integração
 <li> 🤖 Interessado em orquestração de LLM’s usando frameworks como Langchain e machine learning
 
