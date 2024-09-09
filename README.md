@@ -4,9 +4,7 @@
 ### About me
 
  <li> 📚 Estagiário de TI na CorpServices Group
-<li> 💻 Desenvolvedor Back-End com foco em Node.js e Python
-<li> 🔄 Integrador de APIs e web services, focado em automação de processos corporativos
-<li> 🛠️ Habilidades em Node.js, Java e Python para soluções personalizadas
+<li> 💻 Desenvolvedor Back-End com foco em Node.js, Java Spring boo e pyhon.
 <li> 🚀 Apaixonado por arquiteturas de automação e integração
 <li> 🤖 Interessado em orquestração de LLM’s usando frameworks como Langchain e machine learning
 
@@ -17,10 +15,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
-
-
-
-### Studying in this moment:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
 
 
