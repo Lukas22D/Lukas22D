@@ -3,10 +3,8 @@
 
 ### About me
 
- <li> 📚 Estagiário de TI na CorpServices Group
-<li> 💻 Desenvolvedor Back-End com foco em Node.js, Java SpringBoot e Python.
-<li> 🤖 Interessado em orquestração de LLM’s usando frameworks como Langchain e machine learning
-
+<li> 📚 Estagiário de TI na CorpServices Group
+<li> 💻 Desenvolvedor Back-End com foco em Node.js, Java SpringBoot.
 
  ### skills:
 
