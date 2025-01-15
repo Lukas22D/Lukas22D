@@ -3,8 +3,7 @@
 
 ### About me
 
-<li> 📚 Estagiário de TI na CorpServices Group
-<li> 💻 Desenvolvedor Back-End com foco em Node.js, Java SpringBoot.
+<li> 💻 Software Engineer 
 
  ### skills:
 
