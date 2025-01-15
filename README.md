@@ -1,9 +1,16 @@
-## 👋 Hello! My name is Lucas.
+![image](https://github.com/user-attachments/assets/c5a8872f-01dc-483e-bae2-72fa212fb0a1)## 👋 Hello! My name is Lucas.
 ### Welcome to my Github, Devs!!
 
 ### About me
 
-<li> 💻 Software Engineer 
+<ul>
+  <li>
+    💻 Software Engineer
+    <a href="https://www.linkedin.com/in/lukas22d" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" style="width: 30px; height: 30px;"/>
+    </a>
+  </li>
+</ul>
 
  ### skills:
 
